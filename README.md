@@ -12,9 +12,9 @@ Asegúrate de tener instalados los siguientes requisitos antes de comenzar:
 
 ## Pasos para Ejecutar
 
-Clonar el Repositorio
 
 ```bash
+Clonar el Repositorio
 git clone URL_DEL_REPOSITORIO
 cd nombre-del-proyecto
 
