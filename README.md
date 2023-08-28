@@ -12,7 +12,7 @@ Asegúrate de tener instalados los siguientes requisitos antes de comenzar:
 
 ## Pasos para Ejecutar
 
-1. **Clonar el Repositorio**
+Clonar el Repositorio
 
 ```bash
 git clone URL_DEL_REPOSITORIO
